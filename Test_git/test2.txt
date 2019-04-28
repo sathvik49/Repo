@@ -1,2 +1,0 @@
-git ignore
-this for testing puprose test 2
